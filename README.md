@@ -1,5 +1,7 @@
 # Snippets Niten Tokens
 
+[![license](https://img.shields.io/github/license/getninjas/niten-vscode-snippets)](https://github.com/getninjas/niten-vscode-snippets/blob/master/LICENSE)
+
 Snippets for [Niten Tokens Design System](https://github.com/getninjas/niten-tokens/)
 
 ## Usage
