@@ -1,0 +1,30 @@
+{
+    "#006513": {
+		"prefix": ["ntColorInterface"],
+		"body": [
+			"$$color-interface-positive-extra-dark"
+		],
+		"description": "The variable value is: #006513"
+    },
+    "#25a159": {
+		"prefix": ["ntColorInterface"],
+		"body": [
+			"$$color-interface-positive-dark"
+		],
+		"description": "The variable value is: #25a159"
+    },
+    "#a0e9be": {
+		"prefix": ["ntColorInterface"],
+		"body": [
+			"$$color-interface-positive-medium"
+		],
+		"description": "The variable value is: #a0e9be"
+    },
+    "#eafaf1": {
+		"prefix": ["ntColorInterface"],
+		"body": [
+			"$$color-interface-positive-light"
+		],
+		"description": "The variable value is: #eafaf1"
+    }
+}

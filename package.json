@@ -13,7 +13,11 @@
         "snippets": [
             {
                 "language": "scss",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/color-brand.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/color-interface.json"
             }
         ]
     }
