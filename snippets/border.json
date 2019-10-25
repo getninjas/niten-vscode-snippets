@@ -19,5 +19,12 @@
             "$$size-border-width-thick"
         ],
         "description": "The variable value is: 2px"
+    },
+    "default": {
+        "prefix": "ntborderStyle",
+        "body": [
+            "$$border-style-default"
+        ],
+        "description": "The variable value is: solid"
     }
 }
