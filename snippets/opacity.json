@@ -2,14 +2,14 @@
   "translucent": {
     "prefix": ["ntOpacity", "translucent", ".35"],
     "body": [
-      "$$opacity-translucent"
+      "$$opacity-translucent$1"
     ],
     "description": "The variable value is: .35"
   },
   "opaque": {
     "prefix": ["ntOpacity", "opaque", ".6"],
     "body": [
-      "$$opacity-opaque"
+      "$$opacity-opaque$1"
     ],
     "description": "The variable value is: .6"
   }

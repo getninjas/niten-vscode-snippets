@@ -2,42 +2,42 @@
   "none": {
     "prefix": ["ntBorderRadius", "ntRadius"],
     "body": [
-      "$$size-border-radius-none"
+      "$$size-border-radius-none$1"
     ],
     "description": "The variable value is: 0"
   },
   "small": {
     "prefix": ["ntBorderRadius", "ntRadius"],
     "body": [
-      "$$size-border-radius-s"
+      "$$size-border-radius-s$1"
     ],
     "description": "The variable value is: 4px"
   },
   "medium": {
     "prefix": ["ntBorderRadius", "ntRadius"],
     "body": [
-      "$$size-border-radius-m"
+      "$$size-border-radius-m$1"
     ],
     "description": "The variable value is: 8px"
   },
   "large": {
     "prefix": ["ntBorderRadius", "ntRadius"],
     "body": [
-      "$$size-border-radius-l"
+      "$$size-border-radius-l$1"
     ],
     "description": "The variable value is: 16px"
   },
   "circle": {
     "prefix": ["ntBorderRadius", "ntRadius"],
     "body": [
-      "$$size-border-radius-circle"
+      "$$size-border-radius-circle$1"
     ],
     "description": "The variable value is: 50%"
   },
   "pill": {
     "prefix": ["ntBorderRadius", "ntRadius"],
     "body": [
-      "$$size-border-radius-pill"
+      "$$size-border-radius-pill$1"
     ],
     "description": "The variable value is: 160px"
   }

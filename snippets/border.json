@@ -2,28 +2,28 @@
   "none": {
     "prefix": "ntborderWidth",
     "body": [
-      "$$size-border-width-none"
+      "$$size-border-width-none$1"
     ],
     "description": "The variable value is: 0"
   },
   "thin": {
     "prefix": "ntborderWidth",
     "body": [
-      "$$size-border-width-thin"
+      "$$size-border-width-thin$1"
     ],
     "description": "The variable value is: 1px"
   },
   "thick": {
     "prefix": "ntborderWidth",
     "body": [
-      "$$size-border-width-thick"
+      "$$size-border-width-thick$1"
     ],
     "description": "The variable value is: 2px"
   },
   "default": {
     "prefix": "ntborderStyle",
     "body": [
-      "$$border-style-default"
+      "$$border-style-default$1"
     ],
     "description": "The variable value is: solid"
   }
