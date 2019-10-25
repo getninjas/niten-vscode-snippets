@@ -1,44 +1,44 @@
 {
-    "none": {
-        "prefix": ["ntBorderRadius", "ntRadius"],
-        "body": [
-            "$$size-border-radius-none"
-        ],
-        "description": "The variable value is: 0"
-    },
-    "small": {
-        "prefix": ["ntBorderRadius", "ntRadius"],
-        "body": [
-            "$$size-border-radius-s"
-        ],
-        "description": "The variable value is: 4px"
-    },
-    "medium": {
-        "prefix": ["ntBorderRadius", "ntRadius"],
-        "body": [
-            "$$size-border-radius-m"
-        ],
-        "description": "The variable value is: 8px"
-    },
-    "large": {
-        "prefix": ["ntBorderRadius", "ntRadius"],
-        "body": [
-            "$$size-border-radius-l"
-        ],
-        "description": "The variable value is: 16px"
-    },
-    "circle": {
-        "prefix": ["ntBorderRadius", "ntRadius"],
-        "body": [
-            "$$size-border-radius-circle"
-        ],
-        "description": "The variable value is: 50%"
-    },
-    "pill": {
-        "prefix": ["ntBorderRadius", "ntRadius"],
-        "body": [
-            "$$size-border-radius-pill"
-        ],
-        "description": "The variable value is: 160px"
-    }
+  "none": {
+    "prefix": ["ntBorderRadius", "ntRadius"],
+    "body": [
+      "$$size-border-radius-none"
+    ],
+    "description": "The variable value is: 0"
+  },
+  "small": {
+    "prefix": ["ntBorderRadius", "ntRadius"],
+    "body": [
+      "$$size-border-radius-s"
+    ],
+    "description": "The variable value is: 4px"
+  },
+  "medium": {
+    "prefix": ["ntBorderRadius", "ntRadius"],
+    "body": [
+      "$$size-border-radius-m"
+    ],
+    "description": "The variable value is: 8px"
+  },
+  "large": {
+    "prefix": ["ntBorderRadius", "ntRadius"],
+    "body": [
+      "$$size-border-radius-l"
+    ],
+    "description": "The variable value is: 16px"
+  },
+  "circle": {
+    "prefix": ["ntBorderRadius", "ntRadius"],
+    "body": [
+      "$$size-border-radius-circle"
+    ],
+    "description": "The variable value is: 50%"
+  },
+  "pill": {
+    "prefix": ["ntBorderRadius", "ntRadius"],
+    "body": [
+      "$$size-border-radius-pill"
+    ],
+    "description": "The variable value is: 160px"
+  }
 }

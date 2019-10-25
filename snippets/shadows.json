@@ -1,44 +1,44 @@
 {
-    "topLevel-1 [0 -2px 4px 0 rgba(0, 0, 0, .15)]": {
-		"prefix": ["ntShadow"],
-		"body": [
-			"$$shadow-top-level-1"
-		],
-		"description": "The variable value is: 0 -2px 4px 0 rgba(0, 0, 0, .15)"
-	},
-    "topLevel-2 [0 -4px 12px 0 rgba(0, 0, 0, .12)]": {
-		"prefix": ["ntShadow"],
-		"body": [
-			"$$shadow-top-level-2"
-		],
-		"description": "The variable value is: 0 -4px 12px 0 rgba(0, 0, 0, .12)"
-	},
-    "topLevel-3 [0 -12px 24px 0 rgba(0, 0, 0, .12)]": {
-		"prefix": ["ntShadow"],
-		"body": [
-			"$$shadow-top-level-3"
-		],
-		"description": "The variable value is: 0 -12px 24px 0 rgba(0, 0, 0, .1)"
-	},
-    "bottomLevel-1 [0 2px 4px 0 rgba(0, 0, 0, .15)]": {
-		"prefix": ["ntShadow"],
-		"body": [
-			"$$shadow-bottom-level-1"
-		],
-		"description": "The variable value is: 0 2px 4px 0 rgba(0, 0, 0, .15)"
-	},
-    "bottomLevel-2 [0 4px 12px 0 rgba(0, 0, 0, .12)]": {
-		"prefix": ["ntShadow"],
-		"body": [
-			"$$shadow-bottom-level-2"
-		],
-		"description": "The variable value is: 0 4px 12px 0 rgba(0, 0, 0, .12)"
-	},
-    "bottomLevel-3 [0 12px 24px 0 rgba(0, 0, 0, .1)]": {
-		"prefix": ["ntShadow"],
-		"body": [
-			"$$shadow-bottom-level-3"
-		],
-		"description": "The variable value is: 0 12px 24px 0 rgba(0, 0, 0, .1)"
-	}
+  "topLevel-1 [0 -2px 4px 0 rgba(0, 0, 0, .15)]": {
+    "prefix": ["ntShadow"],
+    "body": [
+      "$$shadow-top-level-1"
+    ],
+    "description": "The variable value is: 0 -2px 4px 0 rgba(0, 0, 0, .15)"
+  },
+  "topLevel-2 [0 -4px 12px 0 rgba(0, 0, 0, .12)]": {
+    "prefix": ["ntShadow"],
+    "body": [
+      "$$shadow-top-level-2"
+    ],
+    "description": "The variable value is: 0 -4px 12px 0 rgba(0, 0, 0, .12)"
+  },
+  "topLevel-3 [0 -12px 24px 0 rgba(0, 0, 0, .12)]": {
+    "prefix": ["ntShadow"],
+    "body": [
+      "$$shadow-top-level-3"
+    ],
+    "description": "The variable value is: 0 -12px 24px 0 rgba(0, 0, 0, .1)"
+  },
+  "bottomLevel-1 [0 2px 4px 0 rgba(0, 0, 0, .15)]": {
+    "prefix": ["ntShadow"],
+    "body": [
+      "$$shadow-bottom-level-1"
+    ],
+    "description": "The variable value is: 0 2px 4px 0 rgba(0, 0, 0, .15)"
+  },
+  "bottomLevel-2 [0 4px 12px 0 rgba(0, 0, 0, .12)]": {
+    "prefix": ["ntShadow"],
+    "body": [
+      "$$shadow-bottom-level-2"
+    ],
+    "description": "The variable value is: 0 4px 12px 0 rgba(0, 0, 0, .12)"
+  },
+  "bottomLevel-3 [0 12px 24px 0 rgba(0, 0, 0, .1)]": {
+    "prefix": ["ntShadow"],
+    "body": [
+      "$$shadow-bottom-level-3"
+    ],
+    "description": "The variable value is: 0 12px 24px 0 rgba(0, 0, 0, .1)"
+  }
 }

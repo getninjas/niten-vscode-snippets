@@ -1,16 +1,16 @@
 {
-    "default": {
-        "prefix": ["ntFontFamily", "ntFamilyDefault"],
-        "body": [
-            "$$font-family-default"
-        ],
-        "description": "The variable value is: 'Source Sans Pro', Helvetica, Arial, sans-serif"
-    },
-    "italic": {
-        "prefix": ["ntFontQuote", "ntQuote"],
-        "body": [
-            "$$font-style-quote"
-        ],
-        "description": "The variable value is: italic"
-    }
+  "default": {
+    "prefix": ["ntFontFamily", "ntFamilyDefault"],
+    "body": [
+      "$$font-family-default"
+    ],
+    "description": "The variable value is: 'Source Sans Pro', Helvetica, Arial, sans-serif"
+  },
+  "italic": {
+    "prefix": ["ntFontQuote", "ntQuote"],
+    "body": [
+      "$$font-style-quote"
+    ],
+    "description": "The variable value is: italic"
+  }
 }

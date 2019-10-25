@@ -1,198 +1,198 @@
 {
-    "positiveExtraDark [#006513]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-positive-extra-dark"
-		],
-		"description": "The variable value is: #006513"
-    },
-    "positiveDark [#25a159]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-positive-dark"
-		],
-		"description": "The variable value is: #25a159"
-    },
-    "positiveMedium [#a0e9be]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-positive-medium"
-		],
-		"description": "The variable value is: #a0e9be"
-    },
-    "positiveLight [#eafaf1]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-positive-light"
-		],
-		"description": "The variable value is: #eafaf1"
-    },
-    "alertExtraDark [#d78e00]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-alert-extra-dark"
-		],
-		"description": "The variable value is: #d78e00"
-    },
-    "alertDark [#f6ba50]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-alert-dark"
-		],
-		"description": "The variable value is: #f6ba50"
-    },
-    "alertMedium [#fff085]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-alert-medium"
-		],
-		"description": "The variable value is: #fff085"
-    },
-    "alertLight [#fffce6]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-alert-light"
-		],
-		"description": "The variable value is: #fffce6"
-    },
-    "negativeExtraDark [#b40300]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-negative-extra-dark"
-		],
-		"description": "The variable value is: #b40300"
-    },
-    "negativeDark [#f26565]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-negative-dark"
-		],
-		"description": "The variable value is: #f26565"
-    },
-    "negativeMedium [#f49999]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-negative-medium"
-		],
-		"description": "The variable value is: #f49999"
-    },
-    "negativeLight [#fdecec]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-negative-light"
-		],
-		"description": "The variable value is: #fdecec"
-    },
-    "highlightExtraDark [#5319a9]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-highlight-extra-dark"
-		],
-		"description": "The variable value is: #5319a9"
-    },
-    "highlightDark [#9a63ee]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-highlight-dark"
-		],
-		"description": "The variable value is: #9a63ee"
-    },
-    "highlightMedium [#c8a3ff]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-highlight-medium"
-		],
-		"description": "The variable value is: #c8a3ff"
-    },
-    "highlightLight [#f3ebff]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-highlight-light"
-		],
-		"description": "The variable value is: #f3ebff"
-    },
-    "actionExtraDark [#195ca9]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-action-extra-dark"
-		],
-		"description": "The variable value is: #195ca9"
-    },
-    "actionDark [#009ded]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-action-dark"
-		],
-		"description": "The variable value is: #009ded"
-    },
-    "actionMedium [#7ad6ff]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-action-medium"
-		],
-		"description": "The variable value is: #7ad6ff"
-    },
-    "actionLight [#e5f7ff]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-action-light"
-		],
-		"description": "The variable value is: #e5f7ff"
-    },
-    "contentExtraDark [#000]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-content-extra-dark"
-		],
-		"description": "The variable value is: #000"
-    },
-    "contentDark [#212121]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-content-dark"
-		],
-		"description": "The variable value is: #212121"
-    },
-    "contentMedium [#575757]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-content-medium"
-		],
-		"description": "The variable value is: #575757"
-    },
-    "contentLight [#fff]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-content-light"
-		],
-		"description": "The variable value is: #fff"
-    },
-    "shadeExtraDark [#b2b2b2]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-shade-extra-dark"
-		],
-		"description": "The variable value is: #b2b2b2"
-    },
-    "shadeDark [#dbdbdb]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-shade-dark"
-		],
-		"description": "The variable value is: #dbdbdb"
-    },
-    "shadeMedium [#f2f2f2]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-shade-medium"
-		],
-		"description": "The variable value is: #f2f2f2"
-    },
-    "shadeLight [#f8f8f8]": {
-		"prefix": ["ntColorInterface"],
-		"body": [
-			"$$color-interface-shade-light"
-		],
-		"description": "The variable value is: #f8f8f8"
-    }
+  "positiveExtraDark [#006513]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-positive-extra-dark"
+    ],
+    "description": "The variable value is: #006513"
+  },
+  "positiveDark [#25a159]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-positive-dark"
+    ],
+    "description": "The variable value is: #25a159"
+  },
+  "positiveMedium [#a0e9be]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-positive-medium"
+    ],
+    "description": "The variable value is: #a0e9be"
+  },
+  "positiveLight [#eafaf1]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-positive-light"
+    ],
+    "description": "The variable value is: #eafaf1"
+  },
+  "alertExtraDark [#d78e00]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-alert-extra-dark"
+    ],
+    "description": "The variable value is: #d78e00"
+  },
+  "alertDark [#f6ba50]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-alert-dark"
+    ],
+    "description": "The variable value is: #f6ba50"
+  },
+  "alertMedium [#fff085]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-alert-medium"
+    ],
+    "description": "The variable value is: #fff085"
+  },
+  "alertLight [#fffce6]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-alert-light"
+    ],
+    "description": "The variable value is: #fffce6"
+  },
+  "negativeExtraDark [#b40300]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-negative-extra-dark"
+    ],
+    "description": "The variable value is: #b40300"
+  },
+  "negativeDark [#f26565]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-negative-dark"
+    ],
+    "description": "The variable value is: #f26565"
+  },
+  "negativeMedium [#f49999]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-negative-medium"
+    ],
+    "description": "The variable value is: #f49999"
+  },
+  "negativeLight [#fdecec]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-negative-light"
+    ],
+    "description": "The variable value is: #fdecec"
+  },
+  "highlightExtraDark [#5319a9]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-highlight-extra-dark"
+    ],
+    "description": "The variable value is: #5319a9"
+  },
+  "highlightDark [#9a63ee]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-highlight-dark"
+    ],
+    "description": "The variable value is: #9a63ee"
+  },
+  "highlightMedium [#c8a3ff]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-highlight-medium"
+    ],
+    "description": "The variable value is: #c8a3ff"
+  },
+  "highlightLight [#f3ebff]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-highlight-light"
+    ],
+    "description": "The variable value is: #f3ebff"
+  },
+  "actionExtraDark [#195ca9]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-action-extra-dark"
+    ],
+    "description": "The variable value is: #195ca9"
+  },
+  "actionDark [#009ded]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-action-dark"
+    ],
+    "description": "The variable value is: #009ded"
+  },
+  "actionMedium [#7ad6ff]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-action-medium"
+    ],
+    "description": "The variable value is: #7ad6ff"
+  },
+  "actionLight [#e5f7ff]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-action-light"
+    ],
+    "description": "The variable value is: #e5f7ff"
+  },
+  "contentExtraDark [#000]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-content-extra-dark"
+    ],
+    "description": "The variable value is: #000"
+  },
+  "contentDark [#212121]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-content-dark"
+    ],
+    "description": "The variable value is: #212121"
+  },
+  "contentMedium [#575757]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-content-medium"
+    ],
+    "description": "The variable value is: #575757"
+  },
+  "contentLight [#fff]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-content-light"
+    ],
+    "description": "The variable value is: #fff"
+  },
+  "shadeExtraDark [#b2b2b2]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-shade-extra-dark"
+    ],
+    "description": "The variable value is: #b2b2b2"
+  },
+  "shadeDark [#dbdbdb]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-shade-dark"
+    ],
+    "description": "The variable value is: #dbdbdb"
+  },
+  "shadeMedium [#f2f2f2]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-shade-medium"
+    ],
+    "description": "The variable value is: #f2f2f2"
+  },
+  "shadeLight [#f8f8f8]": {
+    "prefix": ["ntColorInterface"],
+    "body": [
+      "$$color-interface-shade-light"
+    ],
+    "description": "The variable value is: #f8f8f8"
+  }
 }
