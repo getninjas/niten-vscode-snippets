@@ -18,6 +18,10 @@
             {
                 "language": "scss",
                 "path": "./snippets/color-interface.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/opacity.json"
             }
         ]
     }
