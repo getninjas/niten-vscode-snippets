@@ -42,6 +42,10 @@
             {
                 "language": "scss",
                 "path": "./snippets/opacity.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/spacing.json"
             }
         ]
     }
