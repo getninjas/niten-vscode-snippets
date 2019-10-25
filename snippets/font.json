@@ -2,14 +2,14 @@
   "default": {
     "prefix": ["ntFontFamily", "ntFamilyDefault"],
     "body": [
-      "$$font-family-default"
+      "$$font-family-default$1"
     ],
     "description": "The variable value is: 'Source Sans Pro', Helvetica, Arial, sans-serif"
   },
   "italic": {
     "prefix": ["ntFontQuote", "ntQuote"],
     "body": [
-      "$$font-style-quote"
+      "$$font-style-quote$1"
     ],
     "description": "The variable value is: italic"
   }

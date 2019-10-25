@@ -2,63 +2,63 @@
   "xxxs [8px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xxxs"
+      "$$size-spacing-xxxs$1"
     ],
     "description": "The variable value is: 8px"
   },
   "xxs [12px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xxs"
+      "$$size-spacing-xxs$1"
     ],
     "description": "The variable value is: 12px"
   },
   "xs [16px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xs"
+      "$$size-spacing-xs$1"
     ],
     "description": "The variable value is: 16px"
   },
   "s [24px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xs"
+      "$$size-spacing-xs$1"
     ],
     "description": "The variable value is: 24px"
   },
   "m [36px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xs"
+      "$$size-spacing-xs$1"
     ],
     "description": "The variable value is: 36px"
   },
   "l [48px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-l"
+      "$$size-spacing-l$1"
     ],
     "description": "The variable value is: 48px"
   },
   "xl [60px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xl"
+      "$$size-spacing-xl$1"
     ],
     "description": "The variable value is: 60px"
   },
   "xxl [84px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xxl"
+      "$$size-spacing-xxl$1"
     ],
     "description": "The variable value is: 84px"
   },
   "xxxl [148px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xxl"
+      "$$size-spacing-xxl$1"
     ],
     "description": "The variable value is: 148px"
   },

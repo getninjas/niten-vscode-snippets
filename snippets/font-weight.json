@@ -2,21 +2,21 @@
   "light": {
     "prefix": ["ntFontWeight", "ntLight"],
     "body": [
-      "$$font-style-weight-light"
+      "$$font-style-weight-light$1"
     ],
     "description": "The variable value is: 300"
   },
   "medium": {
     "prefix": ["ntFontWeight", "ntMedium"],
     "body": [
-      "$$font-style-weight-medium"
+      "$$font-style-weight-medium$1"
     ],
     "description": "The variable value is: 400"
   },
   "bold": {
     "prefix": ["ntFontWeight", "ntBold"],
     "body": [
-      "$$font-style-weight-bold"
+      "$$font-style-weight-bold$1"
     ],
     "description": "The variable value is: 600"
   }
