@@ -50,6 +50,10 @@
             {
                 "language": "scss",
                 "path": "./snippets/spacing.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/shadows.json"
             }
         ]
     }
