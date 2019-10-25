@@ -3,8 +3,12 @@
   "displayName": "niten-tokens-snippets",
   "description": "Snippets for niten tokens design system",
   "version": "0.0.1",
-  "icon": "images/icon.png",
+  "icon": "./images/icon.png",
   "publisher": "getninjas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getninjas/niten-vscode-snippets.git"
+  },
   "engines": {
     "vscode": "^1.39.0"
   },
