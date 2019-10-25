@@ -4,6 +4,7 @@
   "description": "Snippets for niten tokens design system",
   "version": "0.0.1",
   "icon": "images/icon.png",
+  "publisher": "getninjas",
   "engines": {
     "vscode": "^1.39.0"
   },
