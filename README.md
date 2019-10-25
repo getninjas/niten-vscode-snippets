@@ -147,9 +147,7 @@ Type part of a snippet, press `nt`, and the snippet unfolds.
 
 | Snippet            | Variant                           | Value                                       |
 |--------------------|-----------------------------------|---------------------------------------------|
-| ntShadow           | xxxs [`8px`]                      | $size-spacing-xxxs                          |
-| ntMargin           |                                   |                                             |
-| ntPadding          |                                   |                                             |
+| ntShadow, ntMargin, ntPadding | xxxs [`8px`] | $size-spacing-xxxs                          |
 |                    | xxs  [`12px`]                     | $size-spacing-xxs                           |
 |                    | xs   [`16px`]                     | $size-spacing-xs                            |
 |                    | s    [`24px`]                     | $size-spacing-s                             |
@@ -170,3 +168,7 @@ Users appreciate release notes as you update your extension.
 ### 0.0.1
 
 - Added snippets to use Niten Tokens
+
+## License
+
+[MIT](https://github.com/getninjas/niten-vscode-snippets/blob/master/LICENSE)
