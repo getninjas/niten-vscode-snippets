@@ -1,0 +1,51 @@
+{
+    "xxs [14px]": {
+        "prefix": "ntFontSize",
+        "body": [
+            "$$size-font-xxs"
+        ],
+        "description": "The variable value is: 14px"
+    },
+    "xs [16px]": {
+        "prefix": "ntFontSize",
+        "body": [
+            "$$size-font-xs"
+        ],
+        "description": "The variable value is: 16px"
+    },
+    "s [20px]": {
+        "prefix": "ntFontSize",
+        "body": [
+            "$$size-font-s"
+        ],
+        "description": "The variable value is: 20px"
+    },
+    "m [24px]": {
+        "prefix": "ntFontSize",
+        "body": [
+            "$$size-font-m"
+        ],
+        "description": "The variable value is: 24px"
+    },
+    "l [32px]": {
+        "prefix": "ntFontSize",
+        "body": [
+            "$$size-font-l"
+        ],
+        "description": "The variable value is: 32px"
+    },
+    "xl [48px]": {
+        "prefix": "ntFontSize",
+        "body": [
+            "$$size-font-xl"
+        ],
+        "description": "The variable value is: 48px"
+    },
+    "xxl [60px]": {
+        "prefix": "ntFontSize",
+        "body": [
+            "$$size-font-xxl"
+        ],
+        "description": "The variable value is: 60px"
+    }
+}

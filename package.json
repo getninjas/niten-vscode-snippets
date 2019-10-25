@@ -29,6 +29,10 @@
             },
             {
                 "language": "scss",
+                "path": "./snippets/font-size.json"
+            },
+            {
+                "language": "scss",
                 "path": "./snippets/font-weight.json"
             },
             {
