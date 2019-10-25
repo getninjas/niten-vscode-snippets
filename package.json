@@ -13,11 +13,23 @@
         "snippets": [
             {
                 "language": "scss",
+                "path": "./snippets/border-radius.json"
+            },
+            {
+                "language": "scss",
                 "path": "./snippets/color-brand.json"
             },
             {
                 "language": "scss",
                 "path": "./snippets/color-interface.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/font-weight.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/font.json"
             },
             {
                 "language": "scss",

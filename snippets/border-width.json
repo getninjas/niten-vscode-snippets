@@ -1,0 +1,23 @@
+{
+    "none": {
+        "prefix": "ntborderWidth",
+        "body": [
+            "$$size-border-width-none"
+        ],
+        "description": "The variable value is: 0"
+    },
+    "thin": {
+        "prefix": "ntborderWidth",
+        "body": [
+            "$$size-border-width-thin"
+        ],
+        "description": "The variable value is: 1px"
+    },
+    "thick": {
+        "prefix": "ntborderWidth",
+        "body": [
+            "$$size-border-width-thick"
+        ],
+        "description": "The variable value is: 2px"
+    }
+}
