@@ -1,0 +1,66 @@
+$size-line-height-xxl: 68px;
+$size-line-height-xl: 56px;
+$size-line-height-l: 40px;
+$size-line-height-m: 32px;
+$size-line-height-s: 28px;
+$size-line-height-xs: 24px;
+$size-line-height-xxs: 22px;
+$size-line-height-equal: 1;
+{
+    "equal [1]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-equal"
+        ],
+        "description": "The variable value is: 1"
+    },
+    "xxs [22px]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-xxs"
+        ],
+        "description": "The variable value is: 22px"
+    },
+    "xs [22px]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-xs"
+        ],
+        "description": "The variable value is: 24px"
+    },
+    "s [28px]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-s"
+        ],
+        "description": "The variable value is: 28px"
+    },
+    "m [32px]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-m"
+        ],
+        "description": "The variable value is: 32px"
+    },
+    "l [40px]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-l"
+        ],
+        "description": "The variable value is: 40px"
+    },
+    "xl [56px]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-xl"
+        ],
+        "description": "The variable value is: 56px"
+    },
+    "xxl [68px]": {
+        "prefix": ["ntLineHeight"],
+        "body": [
+            "$size-line-height-xxl"
+        ],
+        "description": "The variable value is: 68px"
+    },
+}

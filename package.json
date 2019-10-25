@@ -41,6 +41,10 @@
             },
             {
                 "language": "scss",
+                "path": "./snippets/line-heigth.json"
+            },
+            {
+                "language": "scss",
                 "path": "./snippets/opacity.json"
             },
             {
