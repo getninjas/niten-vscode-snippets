@@ -17,6 +17,10 @@
             },
             {
                 "language": "scss",
+                "path": "./snippets/border-width.json"
+            },
+            {
+                "language": "scss",
                 "path": "./snippets/color-brand.json"
             },
             {
