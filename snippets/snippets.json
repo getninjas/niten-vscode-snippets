@@ -1,1 +1,58 @@
-{}
+{
+    "#000": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-first-extra-dark"
+		],
+		"description": "The variable value is: #000"
+	},
+    "#212121": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-first-dark"
+		],
+		"description": "The variable value is: #212121"
+	},
+    "#575757": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-first-medium"
+		],
+		"description": "The variable value is: #575757"
+	},
+    "#fff": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-first-light"
+		],
+		"description": "The variable value is: #fff"
+	},
+    "#615600": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-second-extra-dark"
+		],
+		"description": "The variable value is: #615600"
+	},
+    "#ffea52": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-second-dark"
+		],
+		"description": "The variable value is: #ffea52"
+	},
+    "#fff399": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-second-medium"
+		],
+		"description": "The variable value is: #fff399"
+	},
+    "#fffce6": {
+		"prefix": ["nt", "ntColorBrand"],
+		"body": [
+			"$$color-brand-second-light"
+		],
+		"description": "The variable value is: #fffce6"
+	}
+}
