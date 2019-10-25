@@ -78,6 +78,86 @@ Type part of a snippet, press `nt`, and the snippet unfolds.
 |                    | actionLight [`#e5f7ff`]           | $color-interface-action-light               |
 |                    | actionLight [`#e5f7ff`]           | $color-interface-action-light               |
 
+### Font
+
+#### Family
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntFontFamily       | default ['Source Sans Pro']       | $font-family-default                        |
+
+#### Sizes
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntFontSize         | xxs [`14px`]                      | $size-font-xxs                              |
+|                    | xs  [`16px`]                      | $size-font-xs                               |
+|                    | s   [`20px`]                      | $size-font-s                                |
+|                    | m   [`24px`]                      | $size-font-m                                |
+|                    | l   [`32px`]                      | $size-font-l                                |
+|                    | xl  [`48px`]                      | $size-font-xl                               |
+|                    | xxl [`60px`]                      | $size-font-xxl                              |
+
+#### Style
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntFontQuote        | quote [italic]                    | $font-style-quote                           |
+
+#### Weight
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntFontWeight       | light [`300`]                     | $font-style-weight-light                    |
+|                    | medium  [`400`]                   | $font-style-weight-medium                   |
+|                    | bold   [`600`]                    | $font-style-weight-bold                     |
+
+### Line Height
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntLineHeight       | equal [`1`]                       | $size-line-height-equal                     |
+|                    | xxs [`22px`]                      | $size-line-height-xxs                       |
+|                    | xs [`24px`]                       | $size-line-height-xs                        |
+|                    | s [`28px`]                        | $size-line-height-s                         |
+|                    | m [`32px`]                        | $size-line-height-m                         |
+|                    | l [`40px`]                        | $size-line-height-l                         |
+|                    | xl [`56px`]                       | $size-line-height-xl                        |
+|                    | xxl [`68px`]                      | $size-line-height-xxl                       |
+
+### Opacity
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntOpacity          | translucent [`.35`]               | $opacity-translucent                        |
+|                    | opaque [`.6`]                     | $opacity-opaque                             |
+
+### Shadows
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntShadow           | topLevel-1                        | $shadow-top-level-1                         |
+|                    | topLevel-2                        | $shadow-top-level-2                         |
+|                    | topLevel-3                        | $shadow-top-level-3                         |
+|                    | bottomLevel-1                     | $shadow-bottom-level-1                      |
+|                    | bottomLevel-2                     | $shadow-bottom-level-2                      |
+|                    | bottomLevel-3                     | $shadow-bottom-level-3                      |
+
+### Spacing
+
+| Snippet            | Variant                           | Value                                       |
+|--------------------|-----------------------------------|---------------------------------------------|
+| ntShadow           | xxxs [`8px`]                      | $size-spacing-xxxs                          |
+| ntMargin           |                                   |                                             |
+| ntPadding          |                                   |                                             |
+|                    | xxs  [`12px`]                     | $size-spacing-xxs                           |
+|                    | xs   [`16px`]                     | $size-spacing-xs                            |
+|                    | s    [`24px`]                     | $size-spacing-s                             |
+|                    | m    [`36px`]                     | $size-spacing-m                             |
+|                    | l    [`48px`]                     | $size-spacing-l                             |
+|                    | xl   [`48px`]                     | $size-spacing-xl                            |
+|                    | xxl  [`48px`]                     | $size-spacing-xxl                           |
+|                    | xxxl [`48px`]                     | $size-spacing-xxxl                          |
 
 ## Known Issues
 

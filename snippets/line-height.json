@@ -13,7 +13,7 @@
     ],
     "description": "The variable value is: 22px"
   },
-  "xs [22px]": {
+  "xs [24px]": {
     "prefix": ["ntLineHeight"],
     "body": [
       "$size-line-height-xs$1"
