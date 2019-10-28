@@ -1,6 +1,7 @@
 # Snippets Niten Tokens
 
 [![license](https://img.shields.io/github/license/getninjas/niten-vscode-snippets)](https://github.com/getninjas/niten-vscode-snippets/blob/master/LICENSE)
+[![version](https://img.shields.io/visual-studio-marketplace/v/getninjas.niten-tokens-snippets)](https://marketplace.visualstudio.com/items?itemName=getninjas.niten-tokens-snippets)
 
 Snippets for [Niten Tokens Design System](https://github.com/getninjas/niten-tokens/)
 
