@@ -2,7 +2,7 @@
   "name": "niten-tokens-snippets",
   "displayName": "niten-tokens-snippets",
   "description": "Snippets for niten tokens design system",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "icon": "images/icon.png",
   "publisher": "getninjas",
   "repository": {
@@ -16,7 +16,8 @@
     "Snippets"
   ],
   "contributes": {
-    "snippets": [{
+    "snippets": [
+      {
         "language": "scss",
         "path": "./snippets/border-radius.json"
       },
