@@ -23,14 +23,14 @@
   "s [24px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xs$1"
+      "$$size-spacing-s$1"
     ],
     "description": "The variable value is: 24px"
   },
   "m [36px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xs$1"
+      "$$size-spacing-m$1"
     ],
     "description": "The variable value is: 36px"
   },
@@ -58,7 +58,7 @@
   "xxxl [148px]": {
     "prefix": ["ntSpacing", "ntMargin", "ntPadding"],
     "body": [
-      "$$size-spacing-xxl$1"
+      "$$size-spacing-xxxl$1"
     ],
     "description": "The variable value is: 148px"
   }
