@@ -168,6 +168,10 @@ Type part of a snippet, press `nt`, and the snippet unfolds.
 
 Users appreciate release notes as you update your extension.
 
+### 0.2.0
+
+- Fix line-height snippets
+
 ### 0.1.0
 
 - Doc Improvements
