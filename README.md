@@ -23,14 +23,18 @@ Check the snippet list [here](./SNIPPETS-LIST.md)
 
 Users appreciate release notes as you update your extension.
 
+### 0.3.0
+
+- Fix `font-weight` token
+
 ### 0.2.0
 
-- Fix line-height snippets
+- Fix `line-height` snippets
 
 ### 0.1.0
 
 - Doc Improvements
-- Fix line-height description
+- Fix `line-height` description
 
 ### 0.0.1
 
