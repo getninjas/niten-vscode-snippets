@@ -99,7 +99,7 @@
 | Snippet            | Variant                           | Value                                       |
 |--------------------|-----------------------------------|---------------------------------------------|
 | ntFontWeight       | light [`300`]                     | $font-style-weight-light                    |
-|                    | medium  [`400`]                   | $font-style-weight-medium                   |
+|                    | regular  [`400`]                   | $font-style-weight-regular                   |
 |                    | bold   [`600`]                    | $font-style-weight-bold                     |
 
 ## Line Height
