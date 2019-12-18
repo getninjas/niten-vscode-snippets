@@ -4,7 +4,7 @@
   "description": "Snippets for niten tokens design system",
   "version": "0.1.1",
   "icon": "images/icon.png",
-  "publisher": "getninjas",
+  "publisher": "getninjastech",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/getninjas/niten-vscode-snippets.git"
